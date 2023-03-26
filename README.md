@@ -14,7 +14,14 @@ LOGIN PAGE(OTP BASED LOGIN)
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/22121873/227791227-03af70b5-f1b2-45c7-a236-a5a189c73a54.png)
 
+SIGNUP PAGE
+
+![Screenshot (56)](https://user-images.githubusercontent.com/22121873/227791349-e7a933c4-f49b-4037-9629-b6592294b134.png)
+
+
+
 ADD MOVIE PAGE
+
 
 ![Screenshot (54)](https://user-images.githubusercontent.com/22121873/227791247-9eb95f20-bf30-4f18-b79e-4bac2442a549.png)
 
