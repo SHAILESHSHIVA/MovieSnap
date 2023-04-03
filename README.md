@@ -1,6 +1,8 @@
 
 This is a react application where user can post their movies and give reviews and other user can also post their thoughts on the movie.
 
+https://movie-snap.vercel.app/
+
 SCREEN SHOTS OF THE APPLICATION
 
 
